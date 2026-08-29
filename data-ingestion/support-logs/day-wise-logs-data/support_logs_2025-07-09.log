@@ -1,0 +1,749 @@
+2025-07-09 00:25:00 [INFO] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=65.142.99.80 | ResponseTime=1428ms | CPU=52.79% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 00:40:00 [INF0] careplus.support.GenericService - TicketID=TCK0709002 SessionID=sess_TCK0709002
+IP=51.68.180.219 | ResponseTime=465ms | CPU=59.44% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709002"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 01:20:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=233.246.101.238 | ResponseTime=643ms | CPU=84.91% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 01:20:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=235.113.162.82 | ResponseTime=-1783ms | CPU=31.92% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 01:25:00 [INF0] careplus.support.GenericService - TicketID=TCK0709001 SessionID=sess_TCK0709001
+IP=116.123.224.189 | ResponseTime=393ms | CPU=65.0% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709001"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 01:36:00 [INFO] careplus.support.GenericService - TicketID=TCK0709003 SessionID=sess_TCK0709003
+IP=61.159.116.233 | ResponseTime=-628ms | CPU=16.86% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709003"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 01:47:00 [INF0] careplus.support.GenericService - TicketID=TCK0709002 SessionID=sess_TCK0709002
+IP=95.47.101.225 | ResponseTime=892ms | CPU=11.66% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709002"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:00:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709004 SessionID=sess_TCK0709004
+IP=183.99.182.109 | ResponseTime=1627ms | CPU=15.84% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709004"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:08:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=226.201.240.38 | ResponseTime=863ms | CPU=75.71% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:11:00 [INFO] careplus.support.GenericService - TicketID=TCK0709005 SessionID=sess_TCK0709005
+IP=192.93.238.111 | ResponseTime=699ms | CPU=51.36% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709005"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:13:00 [INFO] careplus.support.GenericService - TicketID=TCK0709005 SessionID=sess_TCK0709005
+IP=121.67.42.181 | ResponseTime=1076ms | CPU=89.62% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709005"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:25:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=184.109.225.236 | ResponseTime=1799ms | CPU=65.88% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:29:00 [INFO] careplus.support.GenericService - TicketID=TCK0709000 SessionID=sess_TCK0709000
+IP=155.187.209.141 | ResponseTime=1630ms | CPU=65.62% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709000"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:36:00 [INF0] careplus.support.GenericService - TicketID=TCK0709003 SessionID=sess_TCK0709003
+IP=154.56.255.211 | ResponseTime=699ms | CPU=24.43% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709003"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:53:00 [INFO] careplus.support.GenericService - TicketID=TCK0709006 SessionID=sess_TCK0709006
+IP=64.197.128.174 | ResponseTime=313ms | CPU=32.74% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709006"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 02:55:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709003 SessionID=sess_TCK0709003
+IP=183.53.49.243 | ResponseTime=1785ms | CPU=69.72% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709003"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:02:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709006 SessionID=sess_TCK0709006
+IP=118.127.29.217 | ResponseTime=1594ms | CPU=37.97% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709006"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:06:00 [INF0] careplus.support.GenericService - TicketID=TCK0709001 SessionID=sess_TCK0709001
+IP=1.103.52.161 | ResponseTime=745ms | CPU=18.87% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709001"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:06:00 [INF0] careplus.support.GenericService - TicketID=TCK0709001 SessionID=sess_TCK0709001
+IP=1.103.52.161 | ResponseTime=745ms | CPU=18.87% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709001"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:08:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709002 SessionID=sess_TCK0709002
+IP=246.95.44.243 | ResponseTime=1281ms | CPU=67.49% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709002"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:14:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709007 SessionID=sess_TCK0709007
+IP=191.19.141.244 | ResponseTime=1353ms | CPU=41.91% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709007"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:33:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709007 SessionID=sess_TCK0709007
+IP=215.83.40.8 | ResponseTime=286ms | CPU=46.32% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709007"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:34:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=115.227.100.122 | ResponseTime=669ms | CPU=17.22% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:34:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=115.227.100.122 | ResponseTime=669ms | CPU=17.22% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:35:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709004 SessionID=sess_TCK0709004
+IP=172.95.34.248 | ResponseTime=1265ms | CPU=30.82% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709004"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:44:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709006 SessionID=sess_TCK0709006
+IP=192.131.211.70 | ResponseTime=1273ms | CPU=56.68% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709006"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:47:00 [INFO] careplus.support.GenericService - TicketID=TCK0709007 SessionID=sess_TCK0709007
+IP=6.219.54.42 | ResponseTime=915ms | CPU=61.77% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709007"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:48:00 [INF0] careplus.support.GenericService - TicketID=TCK0709004 SessionID=sess_TCK0709004
+IP=239.61.121.233 | ResponseTime=845ms | CPU=10.43% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709004"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:49:00 [INFO] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=206.111.189.207 | ResponseTime=755ms | CPU=38.72% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:49:00 [INFO] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=206.111.189.207 | ResponseTime=755ms | CPU=38.72% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 03:51:00 [INFO] careplus.support.GenericService - TicketID=TCK0709005 SessionID=sess_TCK0709005
+IP=196.244.39.143 | ResponseTime=1466ms | CPU=25.11% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709005"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 04:06:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709005 SessionID=sess_TCK0709005
+IP=23.82.182.136 | ResponseTime=1006ms | CPU=19.35% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709005"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 04:10:00 [INFO] careplus.support.GenericService - TicketID=TCK0709007 SessionID=sess_TCK0709007
+IP=168.160.244.116 | ResponseTime=785ms | CPU=26.91% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709007"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 04:54:00 [INFO] careplus.support.GenericService - TicketID=TCK0709011 SessionID=sess_TCK0709011
+IP=179.249.49.220 | ResponseTime=174ms | CPU=61.89% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709011"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 04:58:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=162.110.24.11 | ResponseTime=1171ms | CPU=64.12% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:05:00 [INFO] careplus.support.GenericService - TicketID=TCK0709009 SessionID=sess_TCK0709009
+IP=91.66.150.21 | ResponseTime=1694ms | CPU=19.11% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709009"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:51:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709010 SessionID=sess_TCK0709010
+IP=248.236.224.208 | ResponseTime=503ms | CPU=16.26% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709010"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:52:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709010 SessionID=sess_TCK0709010
+IP=159.209.250.158 | ResponseTime=858ms | CPU=17.01% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709010"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:52:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709010 SessionID=sess_TCK0709010
+IP=159.209.250.158 | ResponseTime=858ms | CPU=17.01% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709010"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:53:00 [INFO] careplus.support.GenericService - TicketID=TCK0709010 SessionID=sess_TCK0709010
+IP=12.22.107.225 | ResponseTime=1562ms | CPU=56.98% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709010"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:55:00 [INFO] careplus.support.GenericService - TicketID=TCK0709008 SessionID=sess_TCK0709008
+IP=75.120.112.21 | ResponseTime=-1761ms | CPU=21.89% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709008"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:55:00 [INF0] careplus.support.GenericService - TicketID=TCK0709013 SessionID=sess_TCK0709013
+IP=142.17.69.229 | ResponseTime=1447ms | CPU=19.36% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709013"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:55:00 [INF0] careplus.support.GenericService - TicketID=TCK0709013 SessionID=sess_TCK0709013
+IP=142.17.69.229 | ResponseTime=1447ms | CPU=19.36% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709013"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 05:57:00 [INF0] careplus.support.GenericService - TicketID=TCK0709014 SessionID=sess_TCK0709014
+IP=92.174.41.45 | ResponseTime=1151ms | CPU=37.02% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709014"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 06:12:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709012 SessionID=sess_TCK0709012
+IP=6.221.116.150 | ResponseTime=616ms | CPU=55.55% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709012"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 06:14:00 [INFO] careplus.support.GenericService - TicketID=TCK0709014 SessionID=sess_TCK0709014
+IP=125.67.255.88 | ResponseTime=1727ms | CPU=71.61% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709014"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 06:15:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709009 SessionID=sess_TCK0709009
+IP=76.146.13.142 | ResponseTime=-276ms | CPU=50.85% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709009"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 06:29:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709010 SessionID=sess_TCK0709010
+IP=137.5.2.102 | ResponseTime=358ms | CPU=62.46% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709010"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 06:36:00 [INFO] careplus.support.GenericService - TicketID=TCK0709014 SessionID=sess_TCK0709014
+IP=204.107.242.255 | ResponseTime=1131ms | CPU=26.75% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709014"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:08:00 [INFO] careplus.support.GenericService - TicketID=TCK0709015 SessionID=sess_TCK0709015
+IP=238.243.113.205 | ResponseTime=1056ms | CPU=72.53% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709015"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:13:00 [INFO] careplus.support.GenericService - TicketID=TCK0709012 SessionID=sess_TCK0709012
+IP=27.162.217.183 | ResponseTime=1004ms | CPU=68.97% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709012"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:29:00 [warnING] careplus.support.GenericService - TicketID=TCK0709016 SessionID=sess_TCK0709016
+IP=16.101.195.10 | ResponseTime=1472ms | CPU=88.22% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709016"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:31:00 [INFO] careplus.support.GenericService - TicketID=TCK0709017 SessionID=sess_TCK0709017
+IP=165.53.228.140 | ResponseTime=1398ms | CPU=65.8% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709017"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:34:00 [INFO] careplus.support.GenericService - TicketID=TCK0709019 SessionID=sess_TCK0709019
+IP=155.219.105.29 | ResponseTime=367ms | CPU=13.22% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709019"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:37:00 [INFO] careplus.support.GenericService - TicketID=TCK0709011 SessionID=sess_TCK0709011
+IP=23.78.198.119 | ResponseTime=423ms | CPU=11.75% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709011"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:41:00 [INFO] careplus.support.GenericService - TicketID=TCK0709016 SessionID=sess_TCK0709016
+IP=202.59.36.206 | ResponseTime=998ms | CPU=81.85% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709016"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:41:00 [INFO] careplus.support.GenericService - TicketID=TCK0709016 SessionID=sess_TCK0709016
+IP=202.59.36.206 | ResponseTime=998ms | CPU=81.85% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709016"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:44:00 [INFO] careplus.support.GenericService - TicketID=TCK0709018 SessionID=sess_TCK0709018
+IP=27.84.133.150 | ResponseTime=514ms | CPU=17.84% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709018"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:46:00 [INFO] careplus.support.GenericService - TicketID=TCK0709015 SessionID=sess_TCK0709015
+IP=88.74.130.44 | ResponseTime=294ms | CPU=67.22% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709015"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:49:00 [INFO] careplus.support.GenericService - TicketID=TCK0709013 SessionID=sess_TCK0709013
+IP=34.227.76.186 | ResponseTime=1576ms | CPU=76.65% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709013"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 07:53:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709015 SessionID=sess_TCK0709015
+IP=166.94.86.210 | ResponseTime=402ms | CPU=45.13% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709015"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:01:00 [warnING] careplus.support.GenericService - TicketID=TCK0709013 SessionID=sess_TCK0709013
+IP=103.125.132.152 | ResponseTime=-1604ms | CPU=28.55% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709013"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:02:00 [INF0] careplus.support.GenericService - TicketID=TCK0709019 SessionID=sess_TCK0709019
+IP=34.248.181.132 | ResponseTime=1203ms | CPU=46.43% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709019"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:02:00 [INF0] careplus.support.GenericService - TicketID=TCK0709019 SessionID=sess_TCK0709019
+IP=34.248.181.132 | ResponseTime=1203ms | CPU=46.43% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709019"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:06:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709020 SessionID=sess_TCK0709020
+IP=78.76.125.8 | ResponseTime=1740ms | CPU=72.7% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709020"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:19:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709013 SessionID=sess_TCK0709013
+IP=6.42.74.186 | ResponseTime=513ms | CPU=45.05% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709013"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:20:00 [INFO] careplus.support.GenericService - TicketID=TCK0709018 SessionID=sess_TCK0709018
+IP=67.161.130.91 | ResponseTime=373ms | CPU=45.9% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709018"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:20:00 [INFO] careplus.support.GenericService - TicketID=TCK0709018 SessionID=sess_TCK0709018
+IP=67.161.130.91 | ResponseTime=373ms | CPU=45.9% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709018"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:21:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709016 SessionID=sess_TCK0709016
+IP=38.198.3.184 | ResponseTime=1771ms | CPU=16.78% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709016"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:30:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709017 SessionID=sess_TCK0709017
+IP=6.8.228.204 | ResponseTime=1225ms | CPU=29.31% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709017"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:32:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709014 SessionID=sess_TCK0709014
+IP=160.54.73.177 | ResponseTime=1654ms | CPU=20.33% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709014"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:36:00 [INFO] careplus.support.GenericService - TicketID=TCK0709015 SessionID=sess_TCK0709015
+IP=43.162.31.223 | ResponseTime=540ms | CPU=68.27% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709015"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:48:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709021 SessionID=sess_TCK0709021
+IP=145.116.231.87 | ResponseTime=1720ms | CPU=76.76% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709021"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 08:58:00 [INFO] careplus.support.GenericService - TicketID=TCK0709018 SessionID=sess_TCK0709018
+IP=252.61.207.191 | ResponseTime=1311ms | CPU=38.03% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709018"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:06:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709017 SessionID=sess_TCK0709017
+IP=22.10.138.86 | ResponseTime=918ms | CPU=27.1% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709017"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:09:00 [DEBG] careplus.support.GenericService - TicketID=TCK0709017 SessionID=sess_TCK0709017
+IP=227.175.180.142 | ResponseTime=743ms | CPU=10.63% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709017"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:14:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709019 SessionID=sess_TCK0709019
+IP=16.109.228.34 | ResponseTime=1095ms | CPU=16.25% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709019"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:21:00 [ERROR] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=196.143.167.202 | ResponseTime=377ms | CPU=45.68% | EventType=generic_event | Error=true
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:23:00 [INFO] careplus.support.GenericService - TicketID=TCK0709020 SessionID=sess_TCK0709020
+IP=56.47.210.190 | ResponseTime=1121ms | CPU=53.8% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709020"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:31:00 [ERROR] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=82.37.106.229 | ResponseTime=783ms | CPU=85.33% | EventType=generic_event | Error=true
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:42:00 [INFO] careplus.support.GenericService - TicketID=TCK0709022 SessionID=sess_TCK0709022
+IP=165.144.22.50 | ResponseTime=1387ms | CPU=86.58% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709022"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 09:47:00 [warnING] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=193.153.151.61 | ResponseTime=1129ms | CPU=85.95% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 10:02:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709022 SessionID=sess_TCK0709022
+IP=103.151.12.126 | ResponseTime=-167ms | CPU=24.44% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709022"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 10:19:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709019 SessionID=sess_TCK0709019
+IP=150.128.163.109 | ResponseTime=1021ms | CPU=75.9% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709019"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 10:22:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=244.105.174.44 | ResponseTime=240ms | CPU=24.52% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 10:25:00 [warnING] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=142.105.17.124 | ResponseTime=-179ms | CPU=83.1% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:12:00 [INFO] careplus.support.GenericService - TicketID=TCK0709021 SessionID=sess_TCK0709021
+IP=195.116.171.115 | ResponseTime=425ms | CPU=73.98% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709021"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:13:00 [INF0] careplus.support.GenericService - TicketID=TCK0709022 SessionID=sess_TCK0709022
+IP=31.169.240.137 | ResponseTime=488ms | CPU=72.94% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709022"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:32:00 [EROR] careplus.support.GenericService - TicketID=TCK0709023 SessionID=sess_TCK0709023
+IP=24.30.251.26 | ResponseTime=1229ms | CPU=21.52% | EventType=generic_event | Error=true
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709023"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:39:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709022 SessionID=sess_TCK0709022
+IP=231.102.87.139 | ResponseTime=213ms | CPU=61.67% | EventType=generic_event | Error=false
+UserAgent="Python-urllib/3.9"
+Message=" event for TCK0709022"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:43:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709024 SessionID=sess_TCK0709024
+IP=90.216.162.55 | ResponseTime=1318ms | CPU=13.64% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709024"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:48:00 [INFO] careplus.support.GenericService - TicketID=TCK0709024 SessionID=sess_TCK0709024
+IP=139.253.44.201 | ResponseTime=622ms | CPU=86.91% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709024"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 11:56:00 [INF0] careplus.support.GenericService - TicketID=TCK0709024 SessionID=sess_TCK0709024
+IP=102.179.32.213 | ResponseTime=406ms | CPU=80.26% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709024"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:01:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709025 SessionID=sess_TCK0709025
+IP=166.237.1.156 | ResponseTime=1095ms | CPU=63.82% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709025"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:02:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709024 SessionID=sess_TCK0709024
+IP=209.119.247.213 | ResponseTime=1391ms | CPU=10.04% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709024"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:16:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709027 SessionID=sess_TCK0709027
+IP=191.17.33.67 | ResponseTime=1287ms | CPU=25.35% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709027"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:40:00 [DEBUG] careplus.support.GenericService - TicketID=TCK0709025 SessionID=sess_TCK0709025
+IP=251.193.182.116 | ResponseTime=679ms | CPU=37.33% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709025"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:51:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709028 SessionID=sess_TCK0709028
+IP=93.133.195.12 | ResponseTime=1597ms | CPU=32.23% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709028"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 12:58:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709027 SessionID=sess_TCK0709027
+IP=207.184.57.60 | ResponseTime=1131ms | CPU=32.46% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709027"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:14:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709026 SessionID=sess_TCK0709026
+IP=202.225.167.167 | ResponseTime=278ms | CPU=81.41% | EventType=generic_event | Error=false
+UserAgent="Mobile-Safari/537.36"
+Message=" event for TCK0709026"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:28:00 [EROR] careplus.support.GenericService - TicketID=TCK0709028 SessionID=sess_TCK0709028
+IP=101.50.86.21 | ResponseTime=1291ms | CPU=88.25% | EventType=generic_event | Error=true
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709028"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:29:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709028 SessionID=sess_TCK0709028
+IP=43.85.80.17 | ResponseTime=1402ms | CPU=48.4% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709028"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:43:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709026 SessionID=sess_TCK0709026
+IP=249.209.97.212 | ResponseTime=1351ms | CPU=24.17% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709026"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:50:00 [INFO] careplus.support.GenericService - TicketID=TCK0709026 SessionID=sess_TCK0709026
+IP=95.240.50.114 | ResponseTime=139ms | CPU=70.67% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709026"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 13:50:00 [INFO] careplus.support.GenericService - TicketID=TCK0709026 SessionID=sess_TCK0709026
+IP=95.240.50.114 | ResponseTime=139ms | CPU=70.67% | EventType=generic_event | Error=false
+UserAgent="PostmanRuntime/7.32.2"
+Message=" event for TCK0709026"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 14:20:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709027 SessionID=sess_TCK0709027
+IP=1.241.110.165 | ResponseTime=1498ms | CPU=44.6% | EventType=generic_event | Error=false
+UserAgent="Mozilla/5.0 (Windows NT 10.0)"
+Message=" event for TCK0709027"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---
+2025-07-09 14:27:00 [WARNING] careplus.support.GenericService - TicketID=TCK0709027 SessionID=sess_TCK0709027
+IP=252.211.164.102 | ResponseTime=347ms | CPU=23.64% | EventType=generic_event | Error=false
+UserAgent="curl/7.68.0"
+Message=" event for TCK0709027"
+Debug="ℹ️ Logged for monitoring"
+TraceID=None
+---

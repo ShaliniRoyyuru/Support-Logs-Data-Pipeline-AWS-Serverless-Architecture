@@ -1,0 +1,52 @@
+This document provides key details about the support_tickets and support_logs tables, including their structure, relationship, and purpose.
+
+
+
+----------------------------------------------------
+Table1: support-tickets
+This table captures customer support ticket data, including both resolved and unresolved cases. Each record represents a support issue logged by a user through various channels, handled by an agent with associated priority, status, and interaction count.
+
+- ticket_id : Unique identifier for each support ticket (e.g., TCK0701011). May repeat due to duplicates or tracking.
+- created_at : When the ticket was logged by the user
+- resolved_at : When the issue was marked resolved (can be null if status ≠ Resolved)
+- agent	: Support agent assigned or handling the ticket
+- priority : Priority label: Low, Medium, High
+- issue_category : Classification of the issue (e.g., Bug Report, Login Issue, Feature Request)
+- num_interactions : Number of times the user or support agent interacted over the issue
+- status : Current status of the ticket: Resolved, Open, or Escalated
+- channel : Ticket submission channel: Email, Chat, Phone, Web Form
+
+
+Status Behavior:
+- Resolved : Issue closed with a resolution
+- Open : Issue is pending,  awaiting resolution
+- Escalated : Issue was raised to a higher support tier or team
+----------------------------------------------------
+
+
+Table2: support-logs
+This table captures backend system logs for every ticket interaction. Each row logs an event related to a ticket (e.g., backend service hit, CPU usage, API call).
+
+- timestamp : When the backend event occurred
+- log_level : Severity level (e.g., INFO, DEBUG)
+- component : Backend system component involved
+- ticket_id : The same ticket ID referenced in support_tickets
+- session_id : Session for the logged event
+- ip : IP address of user/client
+- response_time	: Time taken to respond (in milliseconds)
+- cpu: 	CPU load at the time the event was logged. High values may indicate server stress.
+- event_type : Type of event
+- error : Whether the event recorded an error (True/False)
+- user_agent : Browser or tool used for access
+- message : Event message (e.g., "event for TCK0701011")
+- debug : Debug message for internal use
+
+----------------------------------------------------
+
+
+
+Relationship Summary
+Each ticket in the support_tickets table represents a customer issue, while the support_logs table contains multiple backend log entries linked to those tickets.
+	- Relationship: One-to-Many
+	- Key: ticket_id
+	- Direction: One ticket → many logs
